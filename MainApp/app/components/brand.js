@@ -1,0 +1,22 @@
+export const brand =[
+    {key: "Apple", value: "Apple"},
+    {key: "Samsung", value: "Samsung"},
+    {key: "Google Pixel", value: "Google Pixel"},
+    {key: "Xiaomi", value: "Xiaomi"},
+    {key: "Huawei", value: "Huawei"},
+    {key: "OnePlus", value: "OnePlus"},
+    {key: "Oppo", value: "Oppo"},
+    {key: "Vivo", value: "Vivo"},
+    {key: "Sony", value: "Sony"},
+    {key: "Realme", value: "Realme"},
+    {key: "Motorola", value: "Motorola"},
+    {key: "Asus", value: "Asus"},
+    {key: "Tecno Mobile", value: "Tecno Mobile"},
+    {key: "LG", value: "LG"},
+    {key: "ZTE", value: "ZTE"},
+    {key: "Nokia", value: "Nokia"},
+    {key: "HTC", value: "HTC"},
+    {key: "Panasonic", value: "Panasonic"},
+    {key: "Honor", value: "Honor"},
+    {key: "Alcatel-Lucent", value: "Alcatel-Lucent"}
+];
