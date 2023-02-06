@@ -44,7 +44,7 @@ export default function AllDetails({navigation}) {
     }
 
     else if (selectedBrand) {
-      filtered = filtered.filter(item => item.Brand === selectedBrand);
+      filtered = filtered.filter(item => item.PhoneBrand === selectedBrand);
       setFilteredData(filtered);
     }
     else{
